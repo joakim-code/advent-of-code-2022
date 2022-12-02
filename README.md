@@ -1,7 +1,7 @@
 # advent-of-code-2022
 
 
-¨¨¨
+´´´
 dotnet new sln --name AdventOfCode
 mkdir src
 mkdir tests
@@ -17,4 +17,3 @@ dotnet sln add tests/DayXX.Tests
 dotnet new gitignore
 
 
-¨¨¨
