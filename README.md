@@ -6,7 +6,7 @@ dotnet new sln --name AdventOfCode
 mkdir src
 mkdir tests
 cd src
-dotnet new consoledo -n DayXX
+dotnet new console -n DayXX
 cd ..
 cd tests
 dotnet new xunit -n DayXX.Tests
