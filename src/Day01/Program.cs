@@ -26,15 +26,14 @@
 
         allElfCalories.Sort();
 
-        foreach(int elfCalorie in allElfCalories) {
-            Console.WriteLine("Elf Calory count: {0}" , elfCalorie);
-        }
+        //part one - last printed value
+        //foreach(int elfCalorie in allElfCalories) {
+        //    Console.WriteLine("Elf Calory count: {0}" , elfCalorie);
+        //}
 
+        //part two
         int count = allElfCalories.Count;
-
         int top3Elfs = allElfCalories[allElfCalories.Count-1]+allElfCalories[allElfCalories.Count-2]+allElfCalories[allElfCalories.Count-3];
 
-        Console.WriteLine("Check last elf: {0} ", allElfCalories[allElfCalories.Count-1]);
-        Console.WriteLine(top3Elfs);
-        
-        System.Console.ReadKey();
+        Console.WriteLine("Answer part one: {0} ", allElfCalories[allElfCalories.Count-1]);
+        Console.WriteLine("Answer part two: " + top3Elfs);
