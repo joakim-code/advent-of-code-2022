@@ -1,0 +1,15 @@
+/Users/jan/Prisme/Projects/advent-of-code-2022/src/Day23/bin/Debug/net7.0/Day23
+/Users/jan/Prisme/Projects/advent-of-code-2022/src/Day23/bin/Debug/net7.0/Day23.deps.json
+/Users/jan/Prisme/Projects/advent-of-code-2022/src/Day23/bin/Debug/net7.0/Day23.runtimeconfig.json
+/Users/jan/Prisme/Projects/advent-of-code-2022/src/Day23/bin/Debug/net7.0/Day23.dll
+/Users/jan/Prisme/Projects/advent-of-code-2022/src/Day23/bin/Debug/net7.0/Day23.pdb
+/Users/jan/Prisme/Projects/advent-of-code-2022/src/Day23/obj/Debug/net7.0/Day23.csproj.AssemblyReference.cache
+/Users/jan/Prisme/Projects/advent-of-code-2022/src/Day23/obj/Debug/net7.0/Day23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jan/Prisme/Projects/advent-of-code-2022/src/Day23/obj/Debug/net7.0/Day23.AssemblyInfoInputs.cache
+/Users/jan/Prisme/Projects/advent-of-code-2022/src/Day23/obj/Debug/net7.0/Day23.AssemblyInfo.cs
+/Users/jan/Prisme/Projects/advent-of-code-2022/src/Day23/obj/Debug/net7.0/Day23.csproj.CoreCompileInputs.cache
+/Users/jan/Prisme/Projects/advent-of-code-2022/src/Day23/obj/Debug/net7.0/Day23.dll
+/Users/jan/Prisme/Projects/advent-of-code-2022/src/Day23/obj/Debug/net7.0/refint/Day23.dll
+/Users/jan/Prisme/Projects/advent-of-code-2022/src/Day23/obj/Debug/net7.0/Day23.pdb
+/Users/jan/Prisme/Projects/advent-of-code-2022/src/Day23/obj/Debug/net7.0/Day23.genruntimeconfig.cache
+/Users/jan/Prisme/Projects/advent-of-code-2022/src/Day23/obj/Debug/net7.0/ref/Day23.dll
